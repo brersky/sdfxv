@@ -1,4 +1,4 @@
-! Title: Allowed Torrent Trackers
+! Title: ALLOWED TORRENT TRACKERS
 ! Version: 0.0.2
 @@||0123456789nonexistent.com^$important
 @@||0d.kebhana.mx^$important
