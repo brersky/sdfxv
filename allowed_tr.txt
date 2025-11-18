@@ -177,4 +177,5 @@
 @@||http://bittorrent-tracker.e-n-c-r-y-p-t.net^$important
 @@||http://aboutbeautifulgallopinghorsesinthegreenpasture.online^$important
 @@||http://1337.abcvg.info^$important
+@@||leet-tracker.moe^$important
 # trnt
