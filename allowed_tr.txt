@@ -1,5 +1,5 @@
 ! Title: ALLOWED TORRENT TRACKERS
-! Version: 0.0.2
+! Version: 0.0.3
 @@||0123456789nonexistent.com^$important
 @@||0d.kebhana.mx^$important
 @@||1337.abcvg.info^$important
@@ -23,6 +23,7 @@
 @@||exodus.desync.com^$important
 @@||explodie.org^$important
 @@||extracker.dahrkael.net^$important
+@@||fr33dom.h33t.com^$important
 @@||glotorrents.pw^$important
 @@||hificode.in^$important
 @@||home.yxgz.club^$important
@@ -42,6 +43,7 @@
 @@||opentracker.i2p.rocks^$important
 @@||opentracker.io^$important
 @@||p4p.arenabg.com^$important
+@@||public.popcorn-tracker.org^$important
 @@||public.tracker.vraphim.com^$important
 @@||rekcart.duckdns.org^$important
 @@||retracker.lanta.me^$important
@@ -56,6 +58,7 @@
 @@||t.213891.xyz^$important
 @@||t.overflow.biz^$important
 @@||torrends.to^$important
+@@||torrent.gresille.org^$important
 @@||torrent.hificode.in^$important
 @@||torrent.tracker.durukanbal.com^$important
 @@||torrentclub.online^$important
@@ -73,6 +76,7 @@
 @@||tracker.bz^$important
 @@||tracker.ccp.ovh^$important
 @@||tracker.cloudbase.store^$important
+@@||tracker.coppersurfer.tk^$important
 @@||tracker.corpscorp.online^$important
 @@||tracker.cutie.dating^$important
 @@||tracker.cyberia.is^$important
@@ -92,6 +96,7 @@
 @@||tracker.ilibr.org^$important
 @@||tracker.internetwarriors.net^$important
 @@||tracker.ipv6tracker.org^$important
+@@||tracker.istole.it^$important
 @@||tracker.kmzs123.cn^$important
 @@||tracker.leechers-paradise.org^$important
 @@||tracker.leechshield.link^$important
@@ -105,6 +110,7 @@
 @@||tracker.plx.im^$important
 @@||tracker.pmman.tech^$important
 @@||tracker.prq.to^$important
+@@||tracker.publicbt.com^$important
 @@||tracker.pubt.net^$important
 @@||tracker.qu.ax^$important
 @@||tracker.renfei.net^$important
