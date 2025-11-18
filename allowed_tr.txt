@@ -37,6 +37,7 @@
 @@||tracker.theoks.net^$important
 @@||tracker.tiny-vps.com^$important
 @@||tracker.zer0day.to^$important
+# trnt
 @@||ttk2.nbaonlineservice.com^$important
 @@||www.torrent.eu.org^$important
 @@||coppersurfer.tk^$important
@@ -176,3 +177,4 @@
 @@||http://bittorrent-tracker.e-n-c-r-y-p-t.net^$important
 @@||http://aboutbeautifulgallopinghorsesinthegreenpasture.online^$important
 @@||http://1337.abcvg.info^$important
+# trnt
