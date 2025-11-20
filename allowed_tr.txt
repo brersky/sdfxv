@@ -166,3 +166,4 @@
 @@||tokyotosho.info^$important
 @@||www.ettvdl.com^$important
 @@||btdig.com^$important
+@@||torrentseeker.com^$important
