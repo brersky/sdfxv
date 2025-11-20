@@ -154,4 +154,5 @@
 @@||rarbg.to^$important
 @@||rargb.to^$important
 @@||torrenting.com^$important
+@@||nyaa.si^$important
 
