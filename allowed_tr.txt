@@ -153,3 +153,4 @@
 @@||zamunda.se^$important
 @@||rarbg.to^$important
 @@||rargb.to^$important
+@@||torrenting.com^$important
