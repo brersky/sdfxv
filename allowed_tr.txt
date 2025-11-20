@@ -158,3 +158,10 @@
 @@||limetorrents.info^$important
 @@||eztv.io^$important
 @@||magnetdl.com^$important
+@@||torrentgalaxy.to^$important
+@@||torrentgalaxy.to^$important
+@@||torrentdownloads.me^$important
+@@||www.torlock.com^$important
+@@||tokyotosho.info^$important
+@@||www.ettvdl.com^$important
+@@||btdig.com^$important
