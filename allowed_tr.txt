@@ -155,4 +155,5 @@
 @@||rargb.to^$important
 @@||torrenting.com^$important
 @@||nyaa.si^$important
+@@||www.limetorrents.info^$important
 
