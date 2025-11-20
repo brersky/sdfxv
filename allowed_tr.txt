@@ -1,5 +1,5 @@
 ! Title: ALLOWED TORRENT TRACKERS
-! Version: 0.0.4
+! Version: 0.0.5
 @@||0123456789nonexistent.com^$important
 @@||0d.kebhana.mx^$important
 @@||1337.abcvg.info^$important
@@ -166,4 +166,5 @@
 @@||tokyotosho.info^$important
 @@||www.ettvdl.com^$important
 @@||btdig.com^$important
+
 
