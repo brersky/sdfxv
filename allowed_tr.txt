@@ -156,7 +156,8 @@
 @@||torrenting.com^$important
 @@||nyaa.si^$important
 @@||limetorrents.info^$important
-@@||www.limetorrents.lol^$important
+@@||limetorrents.lol^$important
+@@||limetorrents.fun^$important
 @@||eztv.io^$important
 @@||magnetdl.com^$important
 @@||torrentgalaxy.to^$important
@@ -166,5 +167,3 @@
 @@||tokyotosho.info^$important
 @@||www.ettvdl.com^$important
 @@||btdig.com^$important
-
-
