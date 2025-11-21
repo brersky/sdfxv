@@ -161,10 +161,10 @@
 @@||torrentdownloads.me^$important
 @@||torrentdownloads.pro^$important
 @@||tokyotosho.info^$important
-@@||www.ettvdl.com^$important
 @@||btdig.com^$important
 @@||torrentseeker.com^$important
 @@||devil-torrents.pl^$important
+||www.ettvdl.com^$important
 ||magnetdl.com^$important
 ||torrentgalaxy.to^$important
 ||www.torlock.com^$important
