@@ -168,3 +168,6 @@
 ||magnetdl.com^$important
 ||torrentgalaxy.to^$important
 ||www.torlock.com^$important
+@@||wegkxfcivgx.ydns.eu^$important
+@@||tracker.skynetcloud.site^$important
+@@||lucke.fenesisu.moe^$important
