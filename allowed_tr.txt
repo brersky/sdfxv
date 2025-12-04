@@ -1,5 +1,5 @@
 ! Title: ALLOWED TORRENT TRACKERS
-! Version: 0.0.7
+! Version: 0.0.8
 @@||0123456789nonexistent.com^$important
 @@||0d.kebhana.mx^$important
 @@||1337.abcvg.info^$important
@@ -182,5 +182,6 @@
 @@||snowfl.com^$important
 @@||digbt.to^$important
 @@||btdb.eu^$important
+
 
 
