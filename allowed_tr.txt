@@ -181,5 +181,6 @@
 @@||magnetdl.org^$important
 @@||snowfl.com^$important
 @@||digbt.to^$important
+@@||btdb.eu^$important
 
 
