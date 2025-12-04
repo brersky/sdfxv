@@ -175,3 +175,6 @@
 @@||searchnova.net^$important
 @@||1337x.to^$important
 @@||1337x.pro^$important
+@@||magnetdl.unblockit.black^$important
+@@||magnetdl.unblockninja.com^$important
+@@||magnetdl.org^$important
