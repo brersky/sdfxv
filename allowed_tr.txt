@@ -177,7 +177,8 @@
 @@||1337x.pro^$important
 @@||magnetdl.unblockit.black^$important
 @@||unblockit.black^$important
-@@||magnetdl.unblockninja.com^$important
+@@||unblockninja.com^$important
 @@||magnetdl.org^$important
-
+@@||snowfl.com^$important
+@@||digbt.to^$important
 
