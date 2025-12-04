@@ -165,7 +165,7 @@
 @@||torrentseeker.com^$important
 @@||devil-torrents.pl^$important
 ||www.ettvdl.com^$important
-||magnetdl.com^$important
+@@||magnetdl.com^$important
 ||torrentgalaxy.to^$important
 ||www.torlock.com^$important
 @@||wegkxfcivgx.ydns.eu^$important
@@ -178,3 +178,4 @@
 @@||magnetdl.unblockit.black^$important
 @@||magnetdl.unblockninja.com^$important
 @@||magnetdl.org^$important
+
