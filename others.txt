@@ -5,5 +5,6 @@
 @@||fcsnew.net^$important
 @@||gigacourse.com^$important
 @@||t.co^$important
-@@||denuvogames.store^
-@@||karanpc.com^
+@@||denuvogames.store^$important
+@@||karanpc.com^$important
+@@||https://2ip.io^$important
