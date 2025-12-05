@@ -185,4 +185,6 @@
 # others ##############################
 @@||courseclub.me^$important
 @@||freecoursesite.com^$important
+@@||fcsnew.net^$important
 @@||gigacourse.com^$important
+
