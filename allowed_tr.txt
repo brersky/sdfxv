@@ -189,10 +189,6 @@
 @@||tracker.healthcareindia.store^$important
 @@||tracker.bitcoinindia.space^$important
 @@||tracker.skillindia.site^$important
-@@||courseclub.me^$important
-@@||freecoursesite.com^$important
-@@||fcsnew.net^$important
-@@||gigacourse.com^$important
 @@||tracker1.itzmx.com^$important
 @@||open.dstud.io^$important
 @@||discord.heihachi.pw^$important
