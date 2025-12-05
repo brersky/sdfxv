@@ -182,3 +182,7 @@
 @@||snowfl.com^$important
 @@||digbt.to^$important
 @@||btdb.eu^$important
+# others ##############################
+@@||courseclub.me^$important
+@@||freecoursesite.com^$important
+@@||gigacourse.com^$important
