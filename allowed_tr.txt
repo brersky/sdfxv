@@ -182,9 +182,11 @@
 @@||snowfl.com^$important
 @@||digbt.to^$important
 @@||btdb.eu^$important
-# others ##############################
+@@||tr.zukizuki.org^$important
+@@||tracker.aburaya.live^$important
+@@||tracker.expli.top^$important
+@@||t1.hloli.org^$important
 @@||courseclub.me^$important
 @@||freecoursesite.com^$important
 @@||fcsnew.net^$important
 @@||gigacourse.com^$important
-
