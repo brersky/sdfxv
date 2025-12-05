@@ -186,6 +186,9 @@
 @@||tracker.aburaya.live^$important
 @@||tracker.expli.top^$important
 @@||t1.hloli.org^$important
+@@||tracker.healthcareindia.store^$important
+@@||tracker.bitcoinindia.space^$important
+@@||tracker.skillindia.site^$important
 @@||courseclub.me^$important
 @@||freecoursesite.com^$important
 @@||fcsnew.net^$important
