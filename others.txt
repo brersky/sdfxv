@@ -8,3 +8,9 @@
 @@||denuvogames.store^$important
 @@||karanpc.com^$important
 @@||https://2ip.io^$important
+@@||showmyip.com^$important
+@@||ipaddress.my^$important
+@@||www.showmyip.com^$important
+@@||2ip.io^$important
+@@||www.whatsmyip.org^$important
+@@||ipinfo.io^$important
