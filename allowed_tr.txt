@@ -193,3 +193,4 @@
 @@||freecoursesite.com^$important
 @@||fcsnew.net^$important
 @@||gigacourse.com^$important
+@@||tracker1.itzmx.com^$important
