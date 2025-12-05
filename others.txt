@@ -1,3 +1,5 @@
+! Title: OTHERS ALLOWED
+! Version: 0.0.0
 @@||courseclub.me^$important
 @@||freecoursesite.com^$important
 @@||fcsnew.net^$important
