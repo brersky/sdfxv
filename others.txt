@@ -1,5 +1,5 @@
 ! Title: OTHERS ALLOWED
-! Version: 0.0.0
+! Version: 0.0.1
 ||googleapis.com^$client='192.168.0.109'
 ||google.com^$client='192.168.0.109'
 ||gstatic.com^$client='192.168.0.109'
