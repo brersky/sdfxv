@@ -201,3 +201,5 @@
 @@||ipv4.rer.lol^$important
 @@||thepiratebay.org^$important
 @@||https://thepiratebay.torrentbay.st^$important
+@@||igg-games.com^$important
+@@||pcgamestorrents.com^$important
