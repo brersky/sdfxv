@@ -14,7 +14,7 @@
 ||bing.com^$client='192.168.0.1'
 ||reddit.com^$client='192.168.0.1'
 ||amazon.com^$client='192.168.0.1'
-!
+! Youtube history service
 @@||s.youtube.com^$important
 ! Форум за лиценз на Windows.
 @@||msfree.su^$important
@@ -38,7 +38,6 @@
 ||g.globo^$important
 ||alibaba.com^$client='Router - моя в неговата LAN'
 ||ckaaaaa*^$important
-!
 @@||courseclub.me^$important
 @@||freecoursesite.com^$important
 @@||fcsnew.net^$important
