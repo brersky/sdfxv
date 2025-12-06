@@ -1,5 +1,44 @@
 ! Title: OTHERS ALLOWED
 ! Version: 0.0.0
+||googleapis.com^$client='192.168.0.109'
+||google.com^$client='192.168.0.109'
+||gstatic.com^$client='192.168.0.109'
+||youtube.com^$client='192.168.0.109'
+||google.com^$client='192.168.0.1'
+||netflix.com^$client='192.168.0.1'
+||ebay.com^$client='192.168.0.1'
+||wikipedia.org^$client='192.168.0.1'
+||live.com^$client='192.168.0.1'
+||yahoo.com^$client='192.168.0.1'
+||linkedin.com^$client='192.168.0.1'
+||bing.com^$client='192.168.0.1'
+||reddit.com^$client='192.168.0.1'
+||amazon.com^$client='192.168.0.1'
+!
+@@||s.youtube.com^$important
+! Форум за лиценз на Windows.
+@@||msfree.su^$important
+@@||fitgirl-repacks.site^$important
+@@||www.speedcomputers.biz^$important
+@@||sergeistrelec.name^$important
+@@||genuine-iso-verifier.weebly.com^$important
+@@||t.co^$important
+||s.click.aliexpress.com^$important
+||example*.com^$important
+||goo*ogle.com^$important
+||vtb.com^$important
+||hbtbank.com^$important
+||www.stage^$important
+||im2server.jinlaijinwang.com^$important
+||*.dnssec-ruc-ki3.xyz^$important
+||sikelocci.com^$important
+||cyberresilience.io^$important
+||www.googleadservices.com^|
+||edge.microsoft.com^$important
+||g.globo^$important
+||alibaba.com^$client='Router - моя в неговата LAN'
+||ckaaaaa*^$important
+!
 @@||courseclub.me^$important
 @@||freecoursesite.com^$important
 @@||fcsnew.net^$important
@@ -14,3 +53,5 @@
 @@||2ip.io^$important
 @@||www.whatsmyip.org^$important
 @@||ipinfo.io^$important
+! graph.facebook.com - facebook comments view
+@@||graph.facebook.com^$important
