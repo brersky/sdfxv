@@ -203,3 +203,5 @@
 @@||https://thepiratebay.torrentbay.st^$important
 @@||igg-games.com^$important
 @@||pcgamestorrents.com^$important
+@@||tracker.jordan.im^$important
+@@||tracker.gcrenwp.top^$important
