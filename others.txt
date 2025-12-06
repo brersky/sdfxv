@@ -25,3 +25,4 @@
 @@||ipinfo.io^$important
 ! graph.facebook.com - facebook comments view
 @@||graph.facebook.com^$important
+@@||igg-games.com^$important
