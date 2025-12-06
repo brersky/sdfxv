@@ -199,3 +199,5 @@
 @@||tracker.valete.tf^$important
 @@||tracker.privateseedbox.xyz^$important
 @@||ipv4.rer.lol^$important
+@@||thepiratebay.org^$important
+@@||https://thepiratebay.torrentbay.st^$important
