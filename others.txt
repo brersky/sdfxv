@@ -27,3 +27,4 @@
 @@||graph.facebook.com^$important
 @@||www.appbrain.com^$important
 @@||freedl.ink^$important
+@@||zamunda.games^$important
