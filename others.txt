@@ -23,5 +23,7 @@
 @@||2ip.io^$important
 @@||www.whatsmyip.org^$important
 @@||ipinfo.io^$important
-! graph.facebook.com - facebook comments view
+! graph.facebook.com - Allows to view facebook comments
 @@||graph.facebook.com^$important
+@@||www.appbrain.com^$important
+@@||freedl.ink^$important
