@@ -1,5 +1,5 @@
 ! Title: ALLOWED TORRENT TRACKERS
-! Version: 0.0.9
+! Version: 0.1.0
 @@||0123456789nonexistent.com^$important
 @@||0d.kebhana.mx^$important
 @@||1337.abcvg.info^$important
@@ -200,8 +200,22 @@
 @@||tracker.privateseedbox.xyz^$important
 @@||ipv4.rer.lol^$important
 @@||thepiratebay.org^$important
-@@||https://thepiratebay.torrentbay.st^$important
+@@||thepiratebay.torrentbay.st^$important
 @@||igg-games.com^$important
 @@||pcgamestorrents.com^$important
 @@||tracker.jordan.im^$important
-@@||tracker.gcrenwp.top^$important
+@@||tracker.ipv6tracker.ru^$important
+@@||retracker.hotplug.ru^$important
+@@||tracker.fastdownload.xyz^$important
+@@||opentracker.xyz^$important
+@@||t.quic.ws^$important
+@@||tracker.parrotsec.org^$important
+@@||tracker.supertracker.net^$important
+@@||gwp2-v19.rinet.ru^$important
+@@||bigfoot1942.sektori.org^$important
+@@||carapax.net^$important
+@@||retracker.akado-ural.ru^$important
+@@||retracker.maxnet.ua^$important
+@@||bt.dy20188.com^$important
+@@||tracker.files.fm^$important
+@@||retracker.joxnet.ru^$important
