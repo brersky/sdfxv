@@ -1,5 +1,5 @@
 ! Title: OTHERS ALLOWED
-! Version: 0.0.2
+! Version: 0.0.3
 ! За да работи Youtube history на гледаните клипове
 @@||s.youtube.com^$important
 ! Форум за лиценз на Windows.
