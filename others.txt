@@ -30,3 +30,4 @@
 @@||zamunda.games^$important
 @@||monkrus.ws
 @@||u.to
+@@||sendfile.su
