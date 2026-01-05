@@ -42,7 +42,7 @@
 @@||opentor.net^$important
 @@||opentracker.i2p.rocks^$important
 @@||opentracker.io^$important
-@@||p4p.arenabg.com^$important
+@@||arenabg.com^$important
 @@||public.popcorn-tracker.org^$important
 @@||public.tracker.vraphim.com^$important
 @@||rekcart.duckdns.org^$important
@@ -219,3 +219,4 @@
 @@||bt.dy20188.com^$important
 @@||tracker.files.fm^$important
 @@||retracker.joxnet.ru^$important
+@@||kickasstorrent.cr^$important
