@@ -220,3 +220,4 @@
 @@||tracker.files.fm^$important
 @@||retracker.joxnet.ru^$important
 @@||kickasstorrent.cr^$important
+@@||torrentdownload.info^$important
