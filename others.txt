@@ -28,6 +28,6 @@
 @@||www.appbrain.com^$important
 @@||freedl.ink^$important
 @@||zamunda.games^$important
-@@||monkrus.ws
-@@||u.to
-@@||sendfile.su
+@@||monkrus.ws^$important
+@@||u.to^$important
+@@||sendfile.su^$important
