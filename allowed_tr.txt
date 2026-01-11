@@ -221,3 +221,4 @@
 @@||retracker.joxnet.ru^$important
 @@||kickasstorrent.cr^$important
 @@||torrentdownload.info^$important
+@@||rutor.info^$important
