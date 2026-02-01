@@ -31,3 +31,14 @@
 @@||monkrus.ws^$important
 @@||u.to^$important
 @@||sendfile.su^$important
+||example*.com^$important
+||goo*ogle.com^$important
+||vtb.com^$important
+||hbtbank.com^$important
+||www.stage^$important
+||im2server.jinlaijinwang.com^$important
+||*.dnssec-ruc-ki3.xyz^$important
+||sikelocci.com^$important
+||cyberresilience.io^$important
+||g.globo^$important
+||ckaaaaa*^$important
