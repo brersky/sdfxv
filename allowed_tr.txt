@@ -222,3 +222,4 @@
 @@||kickasstorrent.cr^$important
 @@||torrentdownload.info^$important
 @@||rutor.info^$important
+@@||new25.gdtot.dad^$important
