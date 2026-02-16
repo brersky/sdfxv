@@ -134,6 +134,7 @@
 @@||tracker.xiaoduola.xyz^$important
 @@||tracker.yemekyedim.com^$important
 @@||tracker.zer0day.to^$important
+@@||zer0day.ch^$important
 @@||tracker.zhuqiy.com^$important
 @@||tracker.zupix.online^$important
 @@||tracker1.520.jp^$important
@@ -223,3 +224,4 @@
 @@||torrentdownload.info^$important
 @@||rutor.info^$important
 @@||new25.gdtot.dad^$important
+
