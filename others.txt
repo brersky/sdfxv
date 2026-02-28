@@ -33,6 +33,7 @@
 @@||sendfile.su^$important
 ||example*.com^$important
 ||goo*ogle.com^$important
+||www.goo*ogle.com^$important
 ||vtb.com^$important
 ||hbtbank.com^$important
 ||www.stage^$important
