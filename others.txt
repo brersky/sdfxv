@@ -38,6 +38,7 @@
 ||hbtbank.com^$important
 ||www.stage^$important
 ||im2server.jinlaijinwang.com^$important
+||jinlaijinwang.com^$important
 ||*.dnssec-ruc-ki3.xyz^$important
 ||sikelocci.com^$important
 ||cyberresilience.io^$important
