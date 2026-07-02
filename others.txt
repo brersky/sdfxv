@@ -43,3 +43,4 @@
 ||cyberresilience.io^$important
 ||g.globo^$important
 ||ckaaaaa*^$important
+@@||agrd.io^$important
