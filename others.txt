@@ -1,5 +1,5 @@
 ! Title: OTHERS
-! Version: 0.0.5
+! Version: 0.0.6
 ! За да работи Youtube history на гледаните клипове
 @@||s.youtube.com^$important
 ! Форум за лиценз на Windows.
@@ -43,4 +43,5 @@
 ||cyberresilience.io^$important
 ||g.globo^$important
 ||ckaaaaa*^$important
+! За достъп до акаунта ми в AdGuard иска да зареди този сайт:
 @@||agrd.io^$important
