@@ -46,3 +46,4 @@
 ||ckaaaaa*^$important
 ! За достъп до акаунта ми в AdGuard иска да зареди този сайт:
 @@||agrd.io^$important
+@@||www.qbittorrent.org^$important
